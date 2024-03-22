@@ -1,5 +1,9 @@
+<<<<<<< Updated upstream
 
 export const resources = [
+=======
+const resources = [
+>>>>>>> Stashed changes
     {
         category: "HTML",
         text: "HTML står for HyperText Markup Language, og er et strukturspråk som brukes for å lage strukturer til nettside- og applikasjonsgrensesnitt.",
@@ -94,5 +98,9 @@ export const resources = [
             },
         ]
     },
+<<<<<<< Updated upstream
 ]
 
+=======
+]
+>>>>>>> Stashed changes
